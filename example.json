@@ -1,0 +1,23 @@
+{
+    "Peter": {
+        "status":"Wait",
+        "age":19,
+        "count":4,
+        "progress":0.0045657,
+        "bad":0
+    },
+    "Jennifer": {
+        "status":"Active",
+        "age":35,
+        "count":13,
+        "progress":0.0034857,
+        "bad":1
+    },
+    "James": {
+        "status":"Active",
+        "age":56,
+        "count":10,
+        "progress":0.0029857,
+        "bad":0
+    }
+}
